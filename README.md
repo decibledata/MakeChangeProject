@@ -13,8 +13,10 @@ In this project, I have been intsructed to work the cash register. Scanning item
 
 ## CONCEPTS
 While exploring many options, I find myself refering back to prework, as well as previous labs. Many of these concepts I've decided to use so far involve: while loops, if/else if statements, as well as method calling to give the user a menu of items to interact with other than just new lines of code. 
-Upon my testing, Ive noticed i can get close to/similar results with different approaches. Butsome are better suited for a well devised attack.
+Upon my testing, I've noticed i can get close to/similar results with different approaches. Butsome are better suited for a well devised attack.
 
 Many variables are in use, including primarily the double data type.
 ## LESSONS
 	* COMMIT COMMIT COMMIT
+	* Test your code, even if it seems incorrect. I've surprised myself off guard with a solution I wasn't actively looking for many times.
+	
