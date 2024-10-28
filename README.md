@@ -14,11 +14,17 @@ Throughout myhours of work I found myself obsessing with the look of the output 
  	* MacOS Terminal
 
 ## CONCEPTS
-While exploring many options, I find myself refering back to prework, as well as previous labs. Many of these concepts I've decided to use a variety of functions. Although many other variations would work, they wouldnt give me the results I seem to be looking for. As you are reading this Ive changed my logic about 4-5 time already. My main use is with method calling as well as a 'switch' to give the user a menu of items to interact with other than just new lines of code. 
+While exploring many options, I find myself refering back to prework, as well as previous labs. Many of these concepts I've decided to use a variety of functions. Although many other variations would work, they wouldnt give me the results I seem to be looking for. As you are reading this Ive changed my logic about 4-5 time already. 
+My main use is with method calling as well as a 'switch' to give the user a menu of items to interact with other than just new lines of code. 
 Upon my testing, I've noticed i can get close to/similar results with different approaches. Butsome are better suited for a well devised attack.
 
-Many variables are in use, including primarily the double data type do indicate the use of dollars and cents.
+Many variables are in use, including primarily: 'If statements', 'Method calling', and 'casting.'
 ## LESSONS
 	* COMMIT COMMIT COMMIT
 	* Test your code, even if it seems incorrect. I've surprised myself off guard with a solution I wasn't actively looking for many times.
-	
+	* I CANNOT stress enough. 
+	Please, for the love of coding. Focus on the core of the assignment before you get into the bells and whistles.
+	(I became obsessed with designing the project, so much so that i felt i was overcomplicating myself as well as missing a huge component of the actual structure.)
+	*TEST! 
+	*TEST!!
+	*TEST!!!
